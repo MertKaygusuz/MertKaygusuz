@@ -18,6 +18,8 @@
 - SQL
 - EF Core, NHibernate
 - IIS
+- Python
+- Matlab
 - Javascript
 - node.js
 - nest.js
@@ -30,6 +32,7 @@
 
 📕 💻 Blog Posts
 
+- [.Net Web Uygulamalarında EF Core Trigger Kullanarak Verilerin Otomatik Olarak İşlenmesi](https://mkaygusuz.medium.com/net-web-uygulamalar%C4%B1nda-ef-core-trigger-kullanarak-verilerin-otomatik-olarak-i%CC%87%C5%9Flenmesi-6ca35583ed07)
 - [.Net Web Uygulamalarında Otomatik Olarak Kaydedilmesi Gereken Bilgilerin MongoDB Üzerine Yazılması](https://mkaygusuz.medium.com/net-web-uygulamalar%C4%B1nda-otomatik-olarak-kaydedilmesi-gereken-bilgilerin-mongodb-%C3%BCzerine-yaz%C4%B1lmas%C4%B1-16a338b27a5f)
 - [.Net Projelerinde node.js Tabanlı Mail Servisi Kullanımı](https://mkaygusuz.medium.com/net-projelerinde-node-js-tabanl%C4%B1-mail-servisi-kullan%C4%B1m%C4%B1-52f2c99c6ccb)
 - [.Net Core’da Serilog ve MongoDB ile Loglama İçin json Formatında Konfigürasyon Dosyası Hazırlama](https://mkaygusuz.medium.com/net-coreda-serilog-ve-mongodb-ile-loglama-i%CC%87%C3%A7in-json-format%C4%B1nda-konfig%C3%BCrasyon-dosyas%C4%B1-haz%C4%B1rlama-368de1323d68)
