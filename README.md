@@ -32,6 +32,7 @@
 
 📕 💻 Blog Posts
 
+- [LINQ Expression Tree Kullanarak Enum Tipindeki Alanlar İçin IQueryable ile Filtre Oluşturmak](https://mkaygusuz.medium.com/linq-expression-tree-kullanarak-enum-tipindeki-alanlar-i%CC%87%C3%A7in-iqueryable-ile-filtre-olu%C5%9Fturmak-c8f7e9b36eec)
 - [.Net Web Uygulamalarında EF Core Trigger Kullanarak Verilerin Otomatik Olarak İşlenmesi](https://mkaygusuz.medium.com/net-web-uygulamalar%C4%B1nda-ef-core-trigger-kullanarak-verilerin-otomatik-olarak-i%CC%87%C5%9Flenmesi-6ca35583ed07)
 - [.Net Web Uygulamalarında Otomatik Olarak Kaydedilmesi Gereken Bilgilerin MongoDB Üzerine Yazılması](https://mkaygusuz.medium.com/net-web-uygulamalar%C4%B1nda-otomatik-olarak-kaydedilmesi-gereken-bilgilerin-mongodb-%C3%BCzerine-yaz%C4%B1lmas%C4%B1-16a338b27a5f)
 - [.Net Projelerinde node.js Tabanlı Mail Servisi Kullanımı](https://mkaygusuz.medium.com/net-projelerinde-node-js-tabanl%C4%B1-mail-servisi-kullan%C4%B1m%C4%B1-52f2c99c6ccb)
