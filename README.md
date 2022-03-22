@@ -21,6 +21,7 @@
 - Python
 - Matlab
 - Javascript
+- Typescript
 - node.js
 - nest.js
 - SCSS
@@ -32,6 +33,7 @@
 
 📕 💻 Blog Posts
 
+- [Nest.js Demo Boilerplate Çalışması](https://mkaygusuz.medium.com/nest-js-demo-boilerplate-%C3%A7al%C4%B1%C5%9Fmas%C4%B1-50721a24b39)
 - [LINQ Expression Tree Kullanarak Enum Tipindeki Alanlar İçin IQueryable ile Filtre Oluşturmak](https://mkaygusuz.medium.com/linq-expression-tree-kullanarak-enum-tipindeki-alanlar-i%CC%87%C3%A7in-iqueryable-ile-filtre-olu%C5%9Fturmak-c8f7e9b36eec)
 - [.Net Web Uygulamalarında EF Core Trigger Kullanarak Verilerin Otomatik Olarak İşlenmesi](https://mkaygusuz.medium.com/net-web-uygulamalar%C4%B1nda-ef-core-trigger-kullanarak-verilerin-otomatik-olarak-i%CC%87%C5%9Flenmesi-6ca35583ed07)
 - [.Net Web Uygulamalarında Otomatik Olarak Kaydedilmesi Gereken Bilgilerin MongoDB Üzerine Yazılması](https://mkaygusuz.medium.com/net-web-uygulamalar%C4%B1nda-otomatik-olarak-kaydedilmesi-gereken-bilgilerin-mongodb-%C3%BCzerine-yaz%C4%B1lmas%C4%B1-16a338b27a5f)
