@@ -33,6 +33,7 @@
 
 📕 💻 Blog Posts
 
+- [.Net Web Api Boilerplate](https://mkaygusuz.medium.com/net-web-api-boilerplate-15a307d2e41a)
 - [Nest.js Demo Boilerplate Çalışması](https://mkaygusuz.medium.com/nest-js-demo-boilerplate-%C3%A7al%C4%B1%C5%9Fmas%C4%B1-50721a24b39)
 - [LINQ Expression Tree Kullanarak Enum Tipindeki Alanlar İçin IQueryable ile Filtre Oluşturmak](https://mkaygusuz.medium.com/linq-expression-tree-kullanarak-enum-tipindeki-alanlar-i%CC%87%C3%A7in-iqueryable-ile-filtre-olu%C5%9Fturmak-c8f7e9b36eec)
 - [.Net Web Uygulamalarında EF Core Trigger Kullanarak Verilerin Otomatik Olarak İşlenmesi](https://mkaygusuz.medium.com/net-web-uygulamalar%C4%B1nda-ef-core-trigger-kullanarak-verilerin-otomatik-olarak-i%CC%87%C5%9Flenmesi-6ca35583ed07)
