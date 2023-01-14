@@ -28,11 +28,12 @@
 - Vue
 - Quasar Framework
 - jQuery
-
+- Angular
 
 
 📕 💻 Blog Posts
 
+- [The Advantages of Using Graphql Hot Chocolate Library on .Net](https://mkaygusuz.medium.com/the-advantages-of-using-graphql-hot-chocolate-library-on-net-b004b487c2f0)
 - [.Net Web Api Boilerplate](https://mkaygusuz.medium.com/net-web-api-boilerplate-15a307d2e41a)
 - [Nest.js Demo Boilerplate Çalışması](https://mkaygusuz.medium.com/nest-js-demo-boilerplate-%C3%A7al%C4%B1%C5%9Fmas%C4%B1-50721a24b39)
 - [LINQ Expression Tree Kullanarak Enum Tipindeki Alanlar İçin IQueryable ile Filtre Oluşturmak](https://mkaygusuz.medium.com/linq-expression-tree-kullanarak-enum-tipindeki-alanlar-i%CC%87%C3%A7in-iqueryable-ile-filtre-olu%C5%9Fturmak-c8f7e9b36eec)
@@ -41,9 +42,12 @@
 - [.Net Projelerinde node.js Tabanlı Mail Servisi Kullanımı](https://mkaygusuz.medium.com/net-projelerinde-node-js-tabanl%C4%B1-mail-servisi-kullan%C4%B1m%C4%B1-52f2c99c6ccb)
 - [.Net Core’da Serilog ve MongoDB ile Loglama İçin json Formatında Konfigürasyon Dosyası Hazırlama](https://mkaygusuz.medium.com/net-coreda-serilog-ve-mongodb-ile-loglama-i%CC%87%C3%A7in-json-format%C4%B1nda-konfig%C3%BCrasyon-dosyas%C4%B1-haz%C4%B1rlama-368de1323d68)
 - [.Net Core Action Filter Yapısına Dinamik Olarak Servis ve Hata Mesajı Ekleme](https://mkaygusuz.medium.com/net-core-action-filter-yap%C4%B1s%C4%B1na-dinamik-olarak-servis-ve-hata-mesaj%C4%B1-ekleme-d1454a598ff1)
-- [Decorator Pattern Kullanmanın Avantajları ve Decorator Pattern ile Dependency Injection](https://mkaygusuz.medium.com/decorator-pattern-kullanman%C4%B1n-avantajlar%C4%B1-ve-decorator-pattern-ile-dependency-injection-16b0fef277cc)
 - [Vue 3.0 Provide/Inject ile Dependency Injection](https://mkaygusuz.medium.com/vue-3-0-provide-inject-ile-dependency-injection-5c682cbf5e75)
 - [Vue Composition API, Reaktivite ve WatchEffect](https://mkaygusuz.medium.com/vue-composition-api-reaktivite-ve-watcheffect-181393c5ef30)
+
+📝 Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MertKaygusuz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 [medium]: https://mkaygusuz.medium.com/
 [linkedin]: https://www.linkedin.com/in/mert-kaygusuz-69903418a/
